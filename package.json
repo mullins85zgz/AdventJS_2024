@@ -1,0 +1,15 @@
+{
+  "name": "advent-js-2024",
+  "version": "1.0.0",
+  "description": "AventJS del 2024",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "advent-js-2024": "file:",
+    "js-challenges": "file:"
+  },
+  "author": "",
+  "license": "ISC"
+}
